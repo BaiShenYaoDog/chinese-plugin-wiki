@@ -139,56 +139,56 @@ X光矿石可以透视后面方块的洞穴。
 
 ![](../../.gitbook/assets/axe\_of\_experience.jpg)
 
-You can use the **axe of experience** to convert your experience into bottles of experience (you'll have to lose a few percentage of experience though).
+经验之斧可以帮你的经验转换成经验瓶。
 
-### Bedrock pickaxe
+### 基岩镐
 
 ![](../../.gitbook/assets/bedrock\_pickaxe.jpg)
 
-You can use the **bedrock pickaxe** to break bedrock and go at the top of the nether for example.
+基岩镐可以挖掘经验。
 
-### Iron serpe
+### 铁钩
 
 ![](../../.gitbook/assets/iron\_serpe.jpg)
 
-This tool allows you to harvest: it will automatically recolt and replant wheat!
+铁钩可以收割作物后自动种植。
 
-### Obsidian pickaxe
+### 黑曜石镐子
 
 ![](../../.gitbook/assets/obsidian\_pickaxe.jpg)
 
-The **obsidian pickaxe** can be used to break a lot of blocks but is similar to an iron pickaxe.
+黑曜石搞的耐久高的离谱,但挖掘等级为:铁
 
-## Hammers
+## &#x20;锤子
 
-Hammers are very special pickaxes capable of mining several blocks at the same time. Legend says that they were invented by Notch but he didn't have time to add them so he only drew them into the anvil repair interface.
+锤子可以一次性破坏大量方块。
 
-### **Emerald Hammer**
+### **绿宝石锤**
 
 ![](../../.gitbook/assets/emerald\_hammer.jpg)
 
-The most basic hammer you can find is the **Emerald Hammer**, it mines a square of 3 blocks per 3 blocks, this is cool in order to start but definitively not the best you can get.
+绿宝石锤是最低级的,可以一次性破坏3x3的方块。
 
-### Amethyst Hammer
+### 紫水晶锤
 
 ![](../../.gitbook/assets/amethyst\_hammer.jpg)
 
-Unlike the Emerald Hammer, the **Amethyst Hammer** mines a square of 3 blocks per 3 blocks too but with a depth of two blocks.
+紫水晶锤可以破坏3x3x2的方块。
 
-### Onyx Hammer
+### 缟玛瑙锤
 
 ![](../../.gitbook/assets/onyx\_hammer.jpg)
 
-Take the Amethyst Hammer, improve it and you've got the **Onyx Hammer**. It can break more blocks than the Amethyst Hammer because it has a big durability.
+缟玛瑙锤的挖掘速度比紫水晶锤更快,同样也可以挖掘3x3x2的方块。
 
-### Orax Hammer
+### 奥拉克斯锤
 
 ![](../../.gitbook/assets/orax\_hammer.jpg)
 
-Compared to his brothers, the **Orax Hammer** is a god like hammer : it can mine a really big square with a depth of two blocks.
+奥拉克斯锤可以一次性破坏5x5x2的方块。
 
-### Fire Hammer
+### 火焰锤
 
 ![](../../.gitbook/assets/fire\_hammer.jpg)
 
-The **Fire Hammer** mines like a basic hammer (3 blocks per 3 blocks, depth of 1) but it actually melts ores instantly! If you mine iron ore for example you'll immediatly get rewarded with iron ingots ...and it stacks with fortune!
+火焰锤可以一次性破坏3x3x1的方块,并且会自动熔炼矿石。
